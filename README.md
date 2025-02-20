@@ -22,7 +22,6 @@ gantt
     Protocolos de reparación de averías II averías en la red                  :active,  des2, 2025-02-25, 10d
     Prevención de riesgos - Redes          :         des3, 2025-02-28, 7d
     Gestión de residuos - Redes                 :         des4, 2025-03-06, 5d
-
     section Sistema operativo y software
     Sistemas operativos           :done,    des1, 2025-02-20, 5d
     Aplicaciones                   :active,  des2, 2025-02-25, 3d
@@ -44,3 +43,4 @@ gantt
     section  Gestión documental 
     La memoria           :done,    des1, 2025-02-20, 5d
     La presentación                   :active,  des2, 2025-02-25, 3d
+
