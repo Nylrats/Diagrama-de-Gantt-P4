@@ -9,6 +9,7 @@ gantt
     Diagrama de Gantt                  :active,  des2, 2025-02-25, 3d
     Gester de contenidos          :         des3, 2025-02-28, 7d
     PLE                 :         des4, 2025-03-06, 5d
+
     section Gestión del proyecto
     Acta de constitución           :done,    des1, 2025-02-20, 5d
     Diagrama de Gantt                  :active,  des2, 2025-02-25, 3d
