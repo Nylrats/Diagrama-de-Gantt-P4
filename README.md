@@ -4,9 +4,13 @@ En este podremos clasificarnos las tareas del proyecto en cuanto fecha de inicio
 gantt
     title Proyecto 4
     dateFormat  2025-02-20
-    section Planificación
-    Investigación           :done,    des1, 2025-02-20, 5d
-    Diseño                  :active,  des2, 2025-02-25, 3d
-    Implementación          :         des3, 2025-02-28, 7d
-    Pruebas                 :         des4, 2025-03-06, 5d
-    Lanzamiento             :         des5, 2025-03-11, 3d
+    section Gestión del proyecto
+    Acta de constitución           :done,    des1, 2025-02-20, 5d
+    Diagrama de Gantt                  :active,  des2, 2025-02-25, 3d
+    Gester de contenidos          :         des3, 2025-02-28, 7d
+    PLE                 :         des4, 2025-03-06, 5d
+    section Gestión del proyecto
+    Acta de constitución           :done,    des1, 2025-02-20, 5d
+    Diagrama de Gantt                  :active,  des2, 2025-02-25, 3d
+    Gester de contenidos          :         des3, 2025-02-28, 7d
+    PLE                 :         des4, 2025-03-06, 5d
