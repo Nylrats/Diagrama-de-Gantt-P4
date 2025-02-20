@@ -1,5 +1,5 @@
 # Diagrama-de-Gantt-P4
-En este podremos clasificarnos las tareas del proyecto en cuanto fecha de inicio, fecha de finalización y clasificarnos el trabajo.
+En este podremos clasificarnos las tareas del proyecto en cuanto fecha de inicio, fecha de finalización y dividirnos el trabajo de manera eficiente.
 ```mermaid
 gantt
     title Proyecto 4
